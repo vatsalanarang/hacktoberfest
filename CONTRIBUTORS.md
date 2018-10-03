@@ -1,3 +1,8 @@
+#### Name: vatsalanarang
+ - Place: Delhi,India
+ - Bio: Third Year Computer Science Student.
+ - GitHub: [vatsalanarang](https://github.com/vatsalanarang)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
